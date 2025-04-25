@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+    "@opentelemetry/api": "^1.8.0",
+    "@opentelemetry/exporter-jaeger": "^2.0.0",
+    "@opentelemetry/instrumentation-express": "^0.37.0",
+    "@opentelemetry/instrumentation-http": "^0.37.0",
+    "@opentelemetry/instrumentation-mongodb": "^0.37.0",
+    "@opentelemetry/resources": "^1.22.0",
+    "@opentelemetry/sdk-trace-node": "^1.22.0",
+    "express": "^5.1.0",
+    "mongodb": "^4.3.1"
+  }
+}
